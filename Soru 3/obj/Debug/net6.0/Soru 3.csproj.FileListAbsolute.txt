@@ -1,0 +1,15 @@
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\C# 101 - Ödev 2\Soru 3\bin\Debug\net6.0\Soru 3.exe
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\C# 101 - Ödev 2\Soru 3\bin\Debug\net6.0\Soru 3.deps.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\C# 101 - Ödev 2\Soru 3\bin\Debug\net6.0\Soru 3.runtimeconfig.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\C# 101 - Ödev 2\Soru 3\bin\Debug\net6.0\Soru 3.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\C# 101 - Ödev 2\Soru 3\bin\Debug\net6.0\Soru 3.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\C# 101 - Ödev 2\Soru 3\obj\Debug\net6.0\Soru 3.csproj.AssemblyReference.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\C# 101 - Ödev 2\Soru 3\obj\Debug\net6.0\Soru 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\C# 101 - Ödev 2\Soru 3\obj\Debug\net6.0\Soru 3.AssemblyInfoInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\C# 101 - Ödev 2\Soru 3\obj\Debug\net6.0\Soru 3.AssemblyInfo.cs
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\C# 101 - Ödev 2\Soru 3\obj\Debug\net6.0\Soru 3.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\C# 101 - Ödev 2\Soru 3\obj\Debug\net6.0\Soru 3.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\C# 101 - Ödev 2\Soru 3\obj\Debug\net6.0\refint\Soru 3.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\C# 101 - Ödev 2\Soru 3\obj\Debug\net6.0\Soru 3.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\C# 101 - Ödev 2\Soru 3\obj\Debug\net6.0\Soru 3.genruntimeconfig.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\C# 101 - Ödev 2\Soru 3\obj\Debug\net6.0\ref\Soru 3.dll
